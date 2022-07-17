@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - An Idle game on Android
+  -  
+- 🌱 I’m currently ...
+  - Leaning Spanish
+  - Exploring Solidity
+  - Trying to make new connections
+  - Training DL models for mobile devices
+  - Levelling up my recipes :cook:
+- 👯 I’m looking to collaborate on ...
+  - Product Development
+  - Consultation
+- 🤔 I’m looking for help with ...
+  - Android development with OpenCV (FFMPEG support)
+- 💬 Ask me about ...
+  - How to deploy a scalable pipeline?
+  - Why do you need to learn a certain technology?
+  - Why do I get my energy drained about people? :smile: 
+  - Any random topic that's not related to me at all
+- 📫 How to reach me: ...
+  - Linkedin - [Chinni Srikar](https://www.linkedin.com/in/chinni-srikar-a-54b29816b/)
+
 <!--
 **acsrikar279/acsrikar279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
