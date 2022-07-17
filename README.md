@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
   - An Idle game on Android
-  -  
+  - Potential Business Idea 
 - 🌱 I’m currently ...
   - Leaning Spanish
   - Exploring Solidity
