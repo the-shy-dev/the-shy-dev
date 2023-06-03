@@ -5,21 +5,19 @@
   - Potential Business Idea 
 - 🌱 I’m currently ...
   - Leaning Japanese, Spanish, Korean
-  - Exploring Solidity
   - Trying to make new connections
   - Optimizing DL models for mobile devices
   - Leveling up my recipes :cook:
+  - Trying to understand what makes life exciting?
 - 👯 I’m looking to collaborate on ...
   - Product Development
   - Consultation
   - Photography sessions
 - 🤔 I’m looking for help with ...
-  - Android development (Utilize already powerful Mobile hardware to run heavy AI pipelines)
+  - Android development (Utilize Mobile hardware to run heavy AI pipelines)
 - 💬 Ask me about ...
   - How to deploy a scalable pipeline?
-  - What makes me interested in people?
   - Why do you need to learn a certain technology?
-  - Why do I get my energy drained about people? :smile: 
   - Any random topic that's not related to me at all
 - 📫 How to reach me: ...
   - Linkedin - [Chinni Srikar](https://www.linkedin.com/in/chinni-srikar-a-54b29816b/)
