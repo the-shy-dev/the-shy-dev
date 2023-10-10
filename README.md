@@ -2,21 +2,24 @@
 
 - 🔭 I’m currently working on ...
   - An Idle game on Android
-  - Potential Business Idea 
+  - Potential Business Idea
 - 🌱 I’m currently ...
   - Leaning Japanese, Spanish, Korean
   - Trying to make new connections
+  - Photographing people, landscapes, planets & stars
   - Optimizing DL models for mobile devices
   - Leveling up my recipes :cook:
-  - Trying to understand what makes life exciting?
+  - Thinking about what makes life exciting
 - 👯 I’m looking to collaborate on ...
   - Product Development
   - Consultation
   - Photography sessions
 - 🤔 I’m looking for help with ...
   - Android development (Utilize Mobile hardware to run heavy AI pipelines)
+  - 
 - 💬 Ask me about ...
-  - How to deploy a scalable pipeline?
+  - How are AI pipelines developed on B2B level?
+  - What is the interesting part about trying to speak a new language?
   - Why do you need to learn a certain technology?
   - Any random topic that's not related to me at all
 - 📫 How to reach me: ...
