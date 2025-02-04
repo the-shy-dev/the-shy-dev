@@ -1,41 +1,45 @@
-### Hi there 👋
+# Hi there! 👋  
 
-- 🔭 I’m currently working on ...
-  - An Idle game on Android
-  - Potential Business Idea
-- 🌱 I’m currently ...
-  - Leaning Japanese, Spanish, Korean
-  - Trying to make new connections
-  - Photographing people, landscapes, planets & stars
-  - Optimizing DL models for mobile devices
-  - Leveling up my recipes :cook:
-  - Thinking about what makes life exciting
-- 👯 I’m looking to collaborate on ...
-  - Product Development
-  - Consultation
-  - Photography sessions
-- 🤔 I’m looking for help with ...
-  - Android development (Utilize Mobile hardware to run heavy AI pipelines)
-  - 
-- 💬 Ask me about ...
-  - How are AI pipelines developed on B2B level?
-  - What is the interesting part about trying to speak a new language?
-  - Why do you need to learn a certain technology?
-  - Any random topic that's not related to me at all
-- 📫 How to reach me: ...
-  - Linkedin - [Chinni Srikar](https://www.linkedin.com/in/chinni-srikar-a-54b29816b/)
+## 🚀 About Me  
+I'm a **curious engineer** passionate about **product development**. I thrive in **fast-paced environments**, enjoy solving **challenging technical problems**, and love **continuous learning**.  
 
-<!--
-**acsrikar279/acsrikar279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Current Projects  
+- 🎮 **Idle Android Game** – Developing a unique **Idle game** for Android.  
+- 💡 **Business Idea** – Exploring potential **startup opportunities** in IT.  
+- 🤖 **Optimizing Applications** – Running AI pipelines efficiently on **mobile & edge devices**.  
+- 📸 **Photography** – Capturing **people, landscapes, and the cosmos**.  
+- 🏋️ **Health & Fitness** – Hitting the gym to **lose weight & stay active** (failed multiple times but still trying 😅).  
+- 🥘 **Cooking Experiments** – Always **leveling up my recipes**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Learning  
+- 🗣️ **Languages** – Fluent in **Japanese**, learning **Spanish & Korean**.  
+- 🏗️ **Tech & AI** – Exploring **Android hardware utilization** for heavy AI workloads.  
+- 🔗 **Networking** – Connecting with **like-minded people** and collaborating.  
+- 🤔 **Philosophy** – Reflecting on **what makes life exciting** and how to **outgrow myself**.  
+
+---
+
+## 👯 Open to Collaboration  
+- 🚀 **Product Development**  
+- 📊 **Consultation** (Edge AI, Backend, Optimization)  
+- 📷 **Photography Sessions**  
+- 🛠 **Freelancing**  
+
+---
+
+## 💬 Ask Me About  
+- 🏢 **How AI pipelines are developed at the B2B level**  
+- 🗣️ **The most exciting part of learning a new language**  
+- 🔧 **Why you should learn something**  
+- 🎭 **Any random topic (I love unexpected conversations!)**  
+
+---
+
+## 📫 Let's Connect!  
+- **LinkedIn** – [Chinni Srikar](https://www.linkedin.com/in/chinni-srikar-a-54b29816b/)  
+
+---
