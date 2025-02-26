@@ -7,10 +7,9 @@ I'm a **curious engineer** passionate about **product development**. I thrive in
 
 ---
 
-## 🔭 Current Projects  
-- 🎮 **Idle Android Game** – Developing a unique **Idle game** for Android.  
-- 💡 **Business** – Exploring potential idea  
-- 🤖 **Optimizing Applications** – Running AI pipelines efficiently on **mobile & edge devices**.  
+## 🔭 Current work  
+- 🎮 **Idle Android Game** – Developing a unique **Idle game** for Android.
+- 🤖 **Exploring GenAI** – Trying to understand what it is and build prototypes.  
 - 📸 **Photography** – Capturing **people, landscapes, and the cosmos**.  
 - 🏋️ **Health & Fitness** – Hitting the gym to **lose weight & stay active** (failed multiple times but didn't give up yet😅).  
 - 🥘 **Cooking Experiments** – Always **leveling up my recipes**.  
@@ -18,9 +17,8 @@ I'm a **curious engineer** passionate about **product development**. I thrive in
 ---
 
 ## 🌱 Learning  
-- 🗣️ **Languages** – Fluent in **Japanese**, learning **Spanish & Korean**.  
-- 🏗️ **Tech & AI** – Exploring **Android hardware utilization** for heavy AI workloads.  
-- 🔗 **Networking** – Connecting with **like-minded people** and collaborating.  
+- 🗣️ **Languages** – Verbally Fluent in **Japanese**, learning **Spanish & Korean**.  
+- 🏗️ **Tech** – Exploring the latest trends in AI and product development.  
 - 🤔 **Philosophy** – Reflecting on **what makes life exciting** and how to **outgrow myself**.  
 
 ---
@@ -30,7 +28,7 @@ I'm a **curious engineer** passionate about **product development**. I thrive in
 - 📊 **Technical Consultation**  
 - 📷 **Photography Sessions**  
 - 🛠 **Freelancing**  
-
+- 🔗 **Networking** – Connecting with **like-minded people** and collaborating.  
 ---
 
 ## 📫 Let's Connect!  
