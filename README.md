@@ -3,7 +3,8 @@
 ## 🚀 About Me  
 I'm a **curious engineer** passionate about **product development**. I thrive in **fast-paced environments**, enjoy solving **challenging technical problems**, and love **continuous learning**.  
 
-![Github Stats](https://github-stats-tau-one.vercel.app/chart?username=the-shy-dev&layout=compact&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shy-dev&layout=donut&theme=radical)
 
 ---
 
