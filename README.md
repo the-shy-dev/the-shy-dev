@@ -14,7 +14,7 @@ I'm a **curious engineer** passionate about **product development**. I thrive in
 - 📸 **Photography** – Capturing **people, landscapes, and the cosmos**.  
 - 🏋️ **Health & Fitness** – Hitting the gym to **lose weight & stay active** (failed multiple times but didn't give up yet😅).  
 - 🥘 **Cooking Experiments** – Always **leveling up my recipes**.  
-
+- ✍️ **Blogging** - Trying out my hand on writing at https://medium.com/@theshydev
 ---
 
 ## 🌱 Learning  
