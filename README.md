@@ -4,7 +4,7 @@
 I'm a **curious engineer** passionate about **product development**. I thrive in **fast-paced environments**, enjoy solving **challenging technical problems**, and love **continuous learning**.  
 
 
-![Top Languages](https://github-stats-tau-one.vercel.app/summary?username=the-shy-dev&layout=pie)
+![Top Languages](https://github-stats-tau-one.vercel.app/summary?username=the-shy-dev&layout=pie&max_items=10)
 
 ---
 
