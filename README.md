@@ -1,7 +1,7 @@
 # Hi there! 👋  
 
 ## 🚀 About Me  
-**curious engineer**, **sbuilding things**, and **continuous learning**.  
+**curious engineer**, **building things**, and **continuous learning**.  
 
 
 ![Top Languages](https://github-stats-tau-one.vercel.app/summary?username=the-shy-dev&layout=pie&max_items=10)
@@ -10,8 +10,6 @@
 - 🎮 **Idle Android Game** – Developing an **Idle game** for Android.
 - 🤖 **Exploring GenAI** – Trying to understand what it is and build prototypes.  
 - 📸 **Photography** – Capturing **people, landscapes, and the cosmos**.  
-- 🏋️ **Health & Fitness** – Hitting the gym to **lose weight & stay active** (failed multiple times but didn't give up yet😅).  
-- 🥘 **Cooking Experiments** – Always **leveling up my recipes**.  
 - ✍️ **Blogging** - [Medium](https://medium.com/@theshydev), [theshydev](https://blog.theshydev.com)
 
 ## 🌱 Learning  
